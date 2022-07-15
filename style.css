@@ -1040,3 +1040,10 @@ h4 {
         text-align: center;
     }
 }
+
+q{
+    font-size: large;
+    color: #2c2c2c;
+    font-style: italic;
+    
+}
